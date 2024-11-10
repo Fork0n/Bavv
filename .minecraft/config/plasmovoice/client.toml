@@ -1,0 +1,287 @@
+debug = false
+disable_crowdin = false
+check_for_updates = true
+
+[[key_bindings]]
+name = "key.plasmovoice.general.mute_microphone"
+any_context = false
+category = "key.plasmovoice.general"
+
+[[key_bindings.keys]]
+code = 67
+type = "KEYSYM"
+
+
+
+[voice]
+disabled = false
+microphone_disabled = false
+activation_threshold = -30.0
+input_device = ""
+output_device = ""
+disable_input_device = false
+use_javax_input = false
+microphone_volume = 1.3
+noise_suppression = false
+volume = 1.5
+compressor_limiter = true
+sound_occlusion = false
+directional_sources = false
+hrtf = false
+stereo_capture = false
+
+[voice.volumes.source_b810bb74-fdce-304e-8893-649996f1ff72]
+volume = 1.0
+[voice.volumes.source_a0e96e1c-0223-3377-b54d-3e000e302005]
+volume = 1.0
+[voice.volumes.source_13e8d1b2-a3b5-446a-9b41-1a2993aff23e]
+volume = 1.0
+[voice.volumes.source_0bd532b6-4716-4e89-a01b-ae063da65a3c]
+volume = 1.0
+[voice.volumes.source_c5291479-236f-3358-821f-77cb76e0a16c]
+volume = 1.0
+[voice.volumes.source_50bef10c-997c-43a5-a029-fbb26a7e96a1]
+volume = 1.0
+[voice.volumes.source_f39640bc-6a38-359f-99a4-c00aac7a913c]
+volume = 1.0
+[voice.volumes.source_453812df-7106-37db-9418-71d54336d11f]
+volume = 1.0
+[voice.volumes.source_6282bea8-cca7-4c9d-9f53-52e79809db9d]
+volume = 1.0
+[voice.volumes.source_25be98b8-4590-30e6-98c8-df2f95fc72b4]
+volume = 1.0
+[voice.volumes.source_b64cd2ac-ff01-4693-9b83-3b5f35912157]
+volume = 1.0
+[voice.volumes.source_6327b04a-ee96-4e0f-b2a0-5e2e3ccb04c5]
+volume = 1.0
+[voice.volumes.source_8320b318-4141-45ee-a7a5-e30fabb89581]
+volume = 1.0
+[voice.volumes.source_2a44fe38-0058-3a5f-9df2-0d498ab6fc6c]
+volume = 1.0
+[voice.volumes.source_1ab90057-b8c1-4890-9c69-934b4e6b406f]
+volume = 1.0
+[voice.volumes.source_b56abf74-0ab9-4d5f-b637-9b646c842b56]
+volume = 1.0
+[voice.volumes.source_bbc95c9d-2554-4ad7-b651-5070d700adcc]
+volume = 1.0
+[voice.volumes.source_268420e3-1542-34f0-b529-b8b46f8ab69b]
+volume = 1.0
+[voice.volumes.source_33780c8b-bcab-481c-b42b-bc80ad5051c4]
+volume = 1.0
+[voice.volumes.source_15c77e68-1327-4b94-a35f-c6fd182144a7]
+volume = 1.0
+[voice.volumes.source_6b08c19b-c923-36aa-bc46-01d47633c356]
+volume = 1.0
+[voice.volumes.source_58c50e59-954c-438c-b1ac-ab4ea0881c5e]
+volume = 1.0
+[voice.volumes.source_b7639090-9d25-30ad-a306-8e104e09cf7e]
+volume = 1.0
+[voice.volumes.source_7c455b06-8e1a-3e3a-bd64-c3cdd6a0adf7]
+volume = 1.0
+[voice.volumes.source_1481ba44-a0f9-3a5a-9ef7-231d4a4f97c4]
+volume = 1.0
+[voice.volumes.source_5ffb841e-a4db-47b0-a065-db3ac93ec949]
+volume = 1.0
+[voice.volumes.source_af135099-de19-34fc-8047-e4bb4a70cb46]
+volume = 2.0
+[voice.volumes.source_96dd6ce2-8a92-3155-89b3-56f94a14107f]
+volume = 1.0
+[voice.volumes.source_e5bbaf92-7c13-4386-bc40-6a94fd548602]
+volume = 1.0
+[voice.volumes.source_aa294766-9e25-4609-b417-06fc8db19f92]
+volume = 1.0
+[voice.volumes.source_41bec25a-c4df-3800-ad8b-3b4af096978a]
+volume = 1.0
+[voice.volumes.source_db200a8c-cb72-37c7-ad76-cde3c2f02944]
+volume = 1.0
+[voice.volumes.source_85a6f57f-d22f-38d4-aca9-5c230ac71025]
+volume = 1.0
+[voice.volumes.source_075b4b2c-8ea0-452b-8c0d-fffe977fd978]
+volume = 1.0
+[voice.volumes.source_4ae6cc14-73a5-3468-b720-97e40616144e]
+volume = 1.0
+[voice.volumes.source_051b20b1-77d5-3e9b-8113-236250890297]
+volume = 1.0
+[voice.volumes.source_dd5194c3-d977-4801-8c15-a74f388f4d16]
+volume = 1.0
+[voice.volumes.source_5ef152d9-422f-4fe4-b3fa-8b1ae16473b7]
+volume = 1.0
+[voice.volumes.source_e8c7678f-0bab-4319-95f1-ea855f44e373]
+volume = 1.0
+[voice.volumes.source_ba53e628-d6b1-4a56-b3c3-66ffab8a70b1]
+volume = 1.0
+[voice.volumes.source_cf05f520-e151-4bfa-9a0f-da4bc1f14829]
+volume = 1.0
+[voice.volumes.source_97e47139-3832-4ef3-8f62-7fab0c438424]
+volume = 1.0
+[voice.volumes.source_42a85371-0622-475a-93d1-7ec460526b16]
+volume = 1.0
+[voice.volumes.source_a7013c4b-9598-34dd-9a74-fc6715fdb142]
+volume = 1.0
+[voice.volumes.source_8084a865-3ef3-4dbe-988b-649f75f3beae]
+volume = 1.0
+[voice.volumes.source_32556a8d-9992-4465-b8ff-d881cc7471cd]
+volume = 1.0
+[voice.volumes.source_1917c9f7-b2fe-4545-8349-5dde161cf191]
+volume = 1.0
+[voice.volumes.source_316f51d0-07f3-3a8a-b961-fe19513fc881]
+volume = 1.0
+[voice.volumes.source_89473048-5551-3359-93be-e8b886cd565c]
+volume = 1.0
+[voice.volumes.source_f577ee47-64b1-4381-8427-9fa330387143]
+volume = 1.0
+[voice.volumes.source_a092d87b-8ef5-4a53-a818-3fa1a874abbf]
+volume = 1.0
+[voice.volumes.source_3cd97b2b-f282-45df-8a3f-3ceeb0beba57]
+volume = 1.0
+[voice.volumes.source_6f5127d8-2f88-3aee-a1f6-f6af1429b433]
+volume = 1.0
+[voice.volumes.source_b9471a87-809a-4688-b79c-73260657e222]
+volume = 1.0
+[voice.volumes.source_4d66933c-4bd3-4417-b60c-686a0ab6ea96]
+volume = 1.0
+[voice.volumes.source_ed7163ee-baf7-4702-a594-8866c96eed47]
+volume = 1.0
+[voice.volumes.source_a74f5c23-53c2-37b2-b9db-fa12f7f6c8c2]
+volume = 1.0
+[voice.volumes.source_2bd47040-6a0c-4430-8aa7-0f17bb59b894]
+volume = 1.0
+[voice.volumes.source_b44bf314-52d9-4812-9285-cebf7d848e8b]
+volume = 1.0
+[voice.volumes.source_b672ff7f-b43a-3e08-8cb4-f868f361c46f]
+volume = 1.0
+[voice.volumes.source_92aeb8c6-8f4a-3d31-acad-29c4a1c8ffe6]
+volume = 1.0
+[voice.volumes.source_0f187eb4-37ef-4c7b-b74c-cccfb304ffb7]
+volume = 1.0
+[voice.volumes.source_2fc591e6-2e9f-48db-97ad-c54ed649eb49]
+volume = 1.0
+[voice.volumes.source_1edd4f45-dde4-42c5-a000-0dccd0585b4e]
+volume = 1.0
+[voice.volumes.source_673654ba-e128-413e-9f2f-30e06f948a00]
+volume = 1.0
+[voice.volumes.source_6e27ebf0-bd6e-3544-a552-d954943b812f]
+volume = 1.0
+[voice.volumes.source_ae5465ae-888d-31d1-8b3b-0b37f8cbf593]
+volume = 1.0
+[voice.volumes.source_71b3eb5f-b66d-4465-99c1-7a81edbdb6fd]
+volume = 1.0
+[voice.volumes.source_b677c635-c348-3fda-93b4-1c8e7ab61107]
+volume = 1.0
+[voice.volumes.source_d9da0c88-0693-3928-90db-ccab376d65fa]
+volume = 1.0
+[voice.volumes.source_a9296e4a-25cf-405c-8066-9eb29c223d7a]
+volume = 1.0
+[voice.volumes.source_364cd6cd-3560-4c67-a400-85c21609b4ed]
+volume = 1.0
+[voice.volumes.source_4e810fbf-9bee-3826-823d-f458db0ba930]
+volume = 1.0
+[voice.volumes.source_6dc1e617-7787-454a-bf77-cb2052e611c8]
+volume = 1.0
+[voice.volumes.source_0178c313-7844-451c-a382-bee98e64c353]
+volume = 1.0
+[voice.volumes.source_7efb1c5c-a89d-4a1e-84f9-04b567a54ad4]
+volume = 1.0
+[voice.volumes.source_a9f94f88-9c27-3e79-b476-1a0679ca6da4]
+volume = 1.0
+[voice.volumes.source_3fe8cabf-8037-3ff2-811e-1509aa109d9c]
+volume = 1.0
+[voice.volumes.source_8f57dd3a-99a7-31b4-aa43-fd270ef9676e]
+volume = 1.0
+[voice.volumes.source_f901d287-e9ee-46ef-b198-075ad8aa9b6d]
+volume = 1.0
+[voice.volumes.source_81391062-60ca-4c67-8edc-c1b055b217dc]
+volume = 1.0
+[voice.volumes.source_06cf2594-2ff9-4b74-95ac-275b82e71af8]
+volume = 1.0
+[voice.volumes.source_29784d6a-3efe-4b2f-98b5-25b7c0851759]
+volume = 1.0
+[voice.volumes.source_fb418801-3ffc-4e79-ae5e-4db220edac78]
+volume = 1.0
+[voice.volumes.source_0f1c1465-0910-412e-a543-dfe6fd843b67]
+volume = 1.0
+[voice.volumes.proximity]
+volume = 1.0
+[voice.volumes.source_6088e8c3-9289-45b5-a86c-b9137edcb72a]
+volume = 1.0
+[voice.volumes.source_0e7e24f2-ca69-4d52-bf2c-1a98a713cd00]
+volume = 1.0
+[voice.volumes.source_6dae8653-400d-338d-b9f9-d1dcaf6d427f]
+volume = 1.0
+[voice.volumes.source_401b53c1-b17f-44db-811a-df3b7159d76a]
+volume = 1.0
+[voice.volumes.source_8cea19c5-c95d-35fd-be4b-803e0e4d23cf]
+volume = 1.0
+[voice.volumes.source_0803b04d-36a6-421e-9989-ae0a12083a5b]
+volume = 1.0
+[voice.volumes.source_f57f6f31-4bbb-3637-86e8-10e85557f3a1]
+volume = 1.0
+[voice.volumes.discs]
+volume = 1.0
+[voice.volumes.source_5e48c169-86f7-3608-931a-d61e11304df2]
+volume = 1.0
+[voice.volumes.source_785052ff-f12b-415b-ba2b-b87cab26f5c5]
+volume = 1.0
+[voice.volumes.source_221c81f1-83ba-44be-823f-abe14de0dd5c]
+volume = 1.0
+[voice.volumes.source_0cda8582-135a-3b62-bdbd-0b24615cc888]
+volume = 1.0
+[voice.volumes.source_76f7d0a1-6039-3c33-b161-63e2d9d0eb91]
+volume = 1.0
+[voice.volumes.source_0489e165-c64c-4f91-8bb6-e0082d649910]
+volume = 1.0
+[voice.volumes.source_08c0d276-20cd-3034-b4fd-b84157bae1e5]
+volume = 1.0
+[voice.volumes.source_a0318593-0f82-4c2c-9e7e-d18849fdb95d]
+volume = 1.0
+[voice.volumes.source_3fca2203-3f83-4757-a9ec-2b46af057ec9]
+volume = 1.0
+[voice.volumes.source_21e35619-be1d-4576-bd46-6f1d167b95f9]
+volume = 1.0
+[voice.volumes.source_efbd0c42-0f29-487e-99c7-fcc14eab6eb4]
+volume = 1.0
+[voice.volumes.source_380e6e7e-f1b1-3e7f-b082-854d5e3a5279]
+volume = 1.0
+[voice.volumes.source_e49e2668-391c-41cf-8af7-3229d7d9681c]
+volume = 1.0
+[voice.volumes.source_b3ca9620-0afb-4e7a-827e-dc00d6492cb2]
+volume = 1.0
+[voice.volumes.source_b1491913-d50b-33aa-ab13-25ff5df64e98]
+volume = 1.0
+[voice.volumes.source_f666efad-4176-3afd-98b0-bc5e68b46fc2]
+volume = 1.0
+[voice.volumes.source_0c2929fb-8605-3fc7-b4b1-4bf2dc2cdf47]
+volume = 1.0
+[voice.volumes.source_87b23571-4bde-43f3-8d08-29f665d11d91]
+volume = 1.0
+[voice.volumes.source_4054fd3a-92e2-4ab4-8ec1-d4651efd5e0f]
+volume = 1.0
+[voice.volumes.source_03af3d22-12a2-4c2f-a887-0f452676dea6]
+volume = 1.0
+[voice.volumes.source_5b976d53-50a4-481c-8991-049a9ab77026]
+volume = 1.0
+
+[advanced]
+visualize_voice_distance = true
+visualize_voice_distance_on_join = false
+compressor_threshold = -10
+limiter_threshold = -6
+directional_sources_angle = 145
+stereo_sources_to_mono = false
+panning = true
+camera_sound_listener = true
+exponential_volume_slider = true
+exponential_distance_gain = true
+
+[overlay]
+show_activation_icon = true
+activation_icon_position = "BOTTOM_CENTER"
+show_source_icons = 0
+show_static_source_icons = true
+overlay_enabled = true
+overlay_position = "TOP_LEFT"
+overlay_style = "NAME_SKIN"
+
+[overlay.source_states]
+proximity = "OFF"
+discs = "OFF"

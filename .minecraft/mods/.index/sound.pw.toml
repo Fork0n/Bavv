@@ -1,0 +1,14 @@
+name = "Sounds"
+filename = "Sounds-1.1.1+1.21.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/R3qJiNUc/Sounds-1.1.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "b523b114b7ce80c3a27b3bc33a36f42fdedaf291c0660d8371802ee7c4079ba859b20519e827d2fac65fc8cc3b744924a29d37cf92546803e9f556f864126492"
+
+[update]
+[update.modrinth]
+mod-id = "ZouiUX7t"
+version = "R3qJiNUc"

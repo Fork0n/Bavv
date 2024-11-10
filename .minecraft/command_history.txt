@@ -1,0 +1,19 @@
+/tp superckek
+/kick
+/kick superckek
+/tick freeze
+/tick unfreeze
+/tick freeze
+/tick unfreeze
+/give @s minecraft:command_block
+/tick freeze
+/tick unfreeze
+/tick freeze
+/tick unfreeze
+/tick freeze
+/tick unfreeze
+/tick freeze
+/tick unfreeze
+/tick freeze
+/tick unfreeze
+/summon minecraft:ender_dragon

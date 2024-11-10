@@ -1,0 +1,242 @@
+{
+  "version": 2,
+  "mixinEarly": {
+    "state": "DISABLED"
+  },
+  "debugShowKey": {
+    "state": "DISABLED"
+  },
+  "checkOwnMessages": true,
+  "soundSource": "PLAYERS",
+  "allowRegex": false,
+  "defaultColor": 16761856,
+  "defaultSound": {
+    "version": 1,
+    "enabled": true,
+    "id": "block.note_block.bell",
+    "volume": 1.0,
+    "pitch": 1.0
+  },
+  "prefixes": [
+    "/shout",
+    "!"
+  ],
+  "notifications": [
+    {
+      "version": 1,
+      "enabled": true,
+      "exclusionEnabled": false,
+      "responseEnabled": false,
+      "sound": {
+        "version": 1,
+        "enabled": true,
+        "id": "block.note_block.pling",
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      "textStyle": {
+        "version": 1,
+        "doColor": true,
+        "color": 10218496,
+        "bold": {
+          "state": "DISABLED"
+        },
+        "italic": {
+          "state": "DISABLED"
+        },
+        "underlined": {
+          "state": "ON"
+        },
+        "strikethrough": {
+          "state": "DISABLED"
+        },
+        "obfuscated": {
+          "state": "DISABLED"
+        }
+      },
+      "triggers": [
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "Fork0n",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "Fork0n",
+          "isKey": false,
+          "isRegex": false
+        }
+      ],
+      "exclusionTriggers": [],
+      "responseMessages": []
+    },
+    {
+      "version": 1,
+      "enabled": true,
+      "exclusionEnabled": false,
+      "responseEnabled": false,
+      "sound": {
+        "version": 1,
+        "enabled": true,
+        "id": "block.note_block.didgeridoo",
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      "textStyle": {
+        "version": 1,
+        "doColor": true,
+        "color": 13107254,
+        "bold": {
+          "state": "ON"
+        },
+        "italic": {
+          "state": "ON"
+        },
+        "underlined": {
+          "state": "DISABLED"
+        },
+        "strikethrough": {
+          "state": "DISABLED"
+        },
+        "obfuscated": {
+          "state": "DISABLED"
+        }
+      },
+      "triggers": [
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "fuck",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "nigger",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "блять",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "хуй",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "пизда",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "пиздец",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "хуёво",
+          "isKey": false,
+          "isRegex": false
+        }
+      ],
+      "exclusionTriggers": [],
+      "responseMessages": []
+    },
+    {
+      "version": 1,
+      "enabled": true,
+      "exclusionEnabled": false,
+      "responseEnabled": false,
+      "sound": {
+        "version": 1,
+        "enabled": true,
+        "id": "block.note_block.harp",
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      "textStyle": {
+        "version": 1,
+        "doColor": true,
+        "color": 1472939,
+        "bold": {
+          "state": "DISABLED"
+        },
+        "italic": {
+          "state": "ON"
+        },
+        "underlined": {
+          "state": "DISABLED"
+        },
+        "strikethrough": {
+          "state": "DISABLED"
+        },
+        "obfuscated": {
+          "state": "DISABLED"
+        }
+      },
+      "triggers": [
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "help",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "need help",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "help me",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "помогите",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "помоги",
+          "isKey": false,
+          "isRegex": false
+        },
+        {
+          "version": 2,
+          "enabled": true,
+          "string": "нужна помощь",
+          "isKey": false,
+          "isRegex": false
+        }
+      ],
+      "exclusionTriggers": [],
+      "responseMessages": []
+    }
+  ]
+}

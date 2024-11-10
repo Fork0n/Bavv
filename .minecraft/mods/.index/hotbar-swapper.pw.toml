@@ -1,0 +1,14 @@
+name = "Hotbar Swapper"
+filename = "HotbarSwapper-1.21-Fabric-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ArF8Kr0T/versions/HOr59TuV/HotbarSwapper-1.21-Fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "3c227c5d7242b7b2d9a178b41eb16b7b6afea7cfd4dac2d9fb5c2a43896c31365178fa840091376158eedfc91a0f26c21583b239201a47d61df341db35024ecc"
+
+[update]
+[update.modrinth]
+mod-id = "ArF8Kr0T"
+version = "HOr59TuV"

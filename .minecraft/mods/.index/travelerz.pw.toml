@@ -1,0 +1,14 @@
+name = "TravelerZ"
+filename = "travelerz-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/eagoVRnY/versions/Z0nUlNTV/travelerz-1.0.1.jar"
+hash-format = "sha512"
+hash = "322351c4c5360dfe57cba5638ca6862a4e22fe0ef2d0dda73e3b08ffdf038a529eafdaa205e388ab21ac23f62a999613e8b85f39bd6e1660f52dead0af4f6607"
+
+[update]
+[update.modrinth]
+mod-id = "eagoVRnY"
+version = "Z0nUlNTV"

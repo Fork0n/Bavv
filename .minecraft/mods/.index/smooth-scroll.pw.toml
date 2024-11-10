@@ -1,0 +1,14 @@
+name = "Smooth Scrolling"
+filename = "smoothscroll-2.1.2-1.21.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/CllP7wW0/versions/kVlPalL8/smoothscroll-2.1.2-1.21.jar"
+hash-format = "sha512"
+hash = "7e88009506abebd1a86c0cb8f8a7a8d779612495f2f151a5338c5f26725bbb4b0fb1a2a9ffa64f7b264d9712c18bfe71aeb9039a7d760be2989231106d444f59"
+
+[update]
+[update.modrinth]
+mod-id = "CllP7wW0"
+version = "kVlPalL8"

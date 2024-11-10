@@ -1,0 +1,14 @@
+name = "fabricForceLowercase"
+filename = "fabric-force-lowercase+1.21-2.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/wyk6WIE7/versions/kATg6kDL/fabric-force-lowercase%2B1.21-2.1.2.jar"
+hash-format = "sha512"
+hash = "b2abb1fc88126f1be63ccc509372447b7d9d247cf2c1a3c0188a0521bb810520573d1c7448d745834edf1330f05926dd198252f3370d6c03272d17126c8f9d06"
+
+[update]
+[update.modrinth]
+mod-id = "wyk6WIE7"
+version = "kATg6kDL"

@@ -1,0 +1,14 @@
+name = "Chat Tools"
+filename = "chattools-1.21-v2.3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pbnlOdwp/versions/rHxZJAGy/chattools-1.21-v2.3.1.jar"
+hash-format = "sha512"
+hash = "ea5a2096e468a7a7e4c0e56b08741ecb107bfe3ef5334895c76538e2ee5ceb42edb0d7970f06762162c338242f4a0202295a61fed7b75f71e263180d8d1353d4"
+
+[update]
+[update.modrinth]
+mod-id = "pbnlOdwp"
+version = "rHxZJAGy"

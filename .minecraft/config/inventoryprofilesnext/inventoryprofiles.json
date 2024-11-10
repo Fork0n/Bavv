@@ -1,0 +1,8 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 20
+    }
+}

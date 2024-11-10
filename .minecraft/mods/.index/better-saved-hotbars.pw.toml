@@ -1,0 +1,14 @@
+name = "Better Saved Hotbars"
+filename = "BetterSavedHorbars-1.3.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Y5DGNK4o/versions/PG3Sv8rz/BetterSavedHorbars-1.3.1.jar"
+hash-format = "sha512"
+hash = "c7b199a290ac182b8a24b4aafef6ff68dd43637facce77153c335c8e700ec9d71441c43c8304b6e423f2a64bb45d647d3786dd008c88f495cd571f23984d0edf"
+
+[update]
+[update.modrinth]
+mod-id = "Y5DGNK4o"
+version = "PG3Sv8rz"

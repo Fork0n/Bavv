@@ -1,0 +1,14 @@
+name = "ViaVersion"
+filename = "ViaVersion-5.0.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/P1OZGk5p/versions/i0qVvMmh/ViaVersion-5.0.2-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "0e03236126b34c852f43c086cbec7605b0b6c1d31c1576b91925050b3e615f3c5a1789bafb3d34d4ba0f8c81615f63e4a2e55b842451f4b19d0484122c9f9aeb"
+
+[update]
+[update.modrinth]
+mod-id = "P1OZGk5p"
+version = "i0qVvMmh"

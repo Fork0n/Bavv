@@ -1,0 +1,14 @@
+name = "Smooth Particles"
+filename = "smooth-particles-2.0.0a.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xMTLdsFH/versions/iiYJOx44/smooth-particles-2.0.0a.jar"
+hash-format = "sha512"
+hash = "5986a686f035bf57a8546a9a09489e09d2539ac77f05a24e83db438720e606445b1d8f802a257859d386f5f4baed6104000ff528b5258538736d36b35384fd65"
+
+[update]
+[update.modrinth]
+mod-id = "xMTLdsFH"
+version = "iiYJOx44"

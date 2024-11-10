@@ -1,0 +1,14 @@
+name = "Time On Display"
+filename = "time_on_display-merged-1.21-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/yWZYDU0J/versions/gZtXSDsv/time_on_display-merged-1.21-2.0.0.jar"
+hash-format = "sha512"
+hash = "2e7dfbfcd62c41c2b9cdb1bf812b1a767b1f51f6ed271248ea8332255104205524ce13e0b8614ba7e04839e3737399227f06ea8cd44754a398b649a7d75cd4d5"
+
+[update]
+[update.modrinth]
+mod-id = "yWZYDU0J"
+version = "gZtXSDsv"

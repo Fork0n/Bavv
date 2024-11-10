@@ -1,0 +1,380 @@
+[13:27:57] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.14.21
+[13:27:57] [main/INFO]: Loading 176 mods:
+	- accurateblockplacement 1.0.17
+	- appleskin 2.5.0+mc1.20
+	- architectury 9.1.10
+	- betterbeds 1.3.0
+	- betterf3 7.0.0
+	- c2me 0.2.0+alpha.10.91
+	   |-- c2me-base 0.2.0+alpha.10.91
+	   |-- c2me-client-uncapvd 0.2.0+alpha.10.91
+	   |-- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.10.91
+	   |-- c2me-fixes-general-threading-issues 0.2.0+alpha.10.91
+	   |-- c2me-fixes-worldgen-threading-issues 0.2.0+alpha.10.91
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.2.0+alpha.10.91
+	   |-- c2me-notickvd 0.2.0+alpha.10.91
+	   |-- c2me-opts-allocs 0.2.0+alpha.10.91
+	   |-- c2me-opts-chunk-access 0.2.0+alpha.10.91
+	   |-- c2me-opts-chunkio 0.2.0+alpha.10.91
+	   |-- c2me-opts-math 0.2.0+alpha.10.91
+	   |-- c2me-opts-scheduling 0.2.0+alpha.10.91
+	   |-- c2me-opts-worldgen-general 0.2.0+alpha.10.91
+	   |-- c2me-opts-worldgen-vanilla 0.2.0+alpha.10.91
+	   |-- c2me-rewrites-chunk-serializer 0.2.0+alpha.10.91
+	   |-- c2me-rewrites-chunkio 0.2.0+alpha.10.91
+	   |-- c2me-server-utils 0.2.0+alpha.10.91
+	   |-- c2me-threading-chunkio 0.2.0+alpha.10.91
+	   |-- c2me-threading-lighting 0.2.0+alpha.10.91
+	   |-- c2me-threading-worldgen 0.2.0+alpha.10.91
+	   |-- com_electronwill_night-config_core 3.6.5
+	   |-- com_electronwill_night-config_toml 3.6.5
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- net_objecthunter_exp4j 0.4.8
+	   \-- org_threadly_threadly 7.0
+	- cameraoverhaul 1.4.0-fabric-universal
+	- cardinal-components 5.2.2
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-block 5.2.2
+	   |-- cardinal-components-chunk 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-item 5.2.2
+	   |-- cardinal-components-level 5.2.2
+	   |-- cardinal-components-scoreboard 5.2.2
+	   \-- cardinal-components-world 5.2.2
+	- cateyes 7.3.1
+	- cloth-config 11.0.99
+	   \-- cloth-basic-math 0.6.1
+	- command-block-ide 0.4.3
+	- dark-loading-screen 1.6.14
+	- do_a_barrel_roll 3.0.1+1.20
+	   \-- cicada 0.4.0
+	- dynamicfps 2.4.0
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- emotecraft 2.2.7-a.build.49
+	   |-- bendy-lib 4.0.0
+	   \-- player-animator 1.0.2-rc1+1.20
+	- entityculling 1.6.2-mc1.20
+	- fabric-api 0.83.1+1.20.1
+	   |-- fabric-api-base 0.4.29+b04edc7a77
+	   |-- fabric-api-lookup-api-v1 1.6.34+4d8536c977
+	   |-- fabric-biome-api-v1 13.0.10+b3afc78b77
+	   |-- fabric-block-api-v1 1.0.9+e022e5d177
+	   |-- fabric-blockrenderlayer-v1 1.1.39+b3afc78b77
+	   |-- fabric-client-tags-api-v1 1.0.20+b3afc78b77
+	   |-- fabric-command-api-v1 1.2.32+f71b366f77
+	   |-- fabric-commands-v0 0.2.49+df3654b377
+	   |-- fabric-containers-v0 0.1.61+df3654b377
+	   |-- fabric-content-registries-v0 4.0.7+b3afc78b77
+	   |-- fabric-convention-tags-v1 1.5.3+b3afc78b77
+	   |-- fabric-crash-report-info-v1 0.2.18+aeb40ebe77
+	   |-- fabric-data-generation-api-v1 12.1.11+b3afc78b77
+	   |-- fabric-dimensions-v1 2.1.51+b3afc78b77
+	   |-- fabric-entity-events-v1 1.5.21+b3afc78b77
+	   |-- fabric-events-interaction-v0 0.6.0+b3afc78b77
+	   |-- fabric-events-lifecycle-v0 0.2.61+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.38+b04edc7a77
+	   |-- fabric-item-api-v1 2.1.26+b3afc78b77
+	   |-- fabric-item-group-api-v1 4.0.7+b3afc78b77
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da77
+	   |-- fabric-keybindings-v0 0.2.34+df3654b377
+	   |-- fabric-loot-api-v2 1.1.37+b3afc78b77
+	   |-- fabric-loot-tables-v1 1.1.41+9e7660c677
+	   |-- fabric-message-api-v1 5.1.6+b3afc78b77
+	   |-- fabric-mining-level-api-v1 2.1.47+b3afc78b77
+	   |-- fabric-models-v0 0.3.35+b3afc78b77
+	   |-- fabric-networking-api-v1 1.3.8+b3afc78b77
+	   |-- fabric-networking-v0 0.3.48+df3654b377
+	   |-- fabric-object-builder-api-v1 11.0.6+b3afc78b77
+	   |-- fabric-particles-v1 1.0.28+b3afc78b77
+	   |-- fabric-recipe-api-v1 1.0.18+b3afc78b77
+	   |-- fabric-registry-sync-v0 2.2.6+b3afc78b77
+	   |-- fabric-renderer-api-v1 3.0.1+b3afc78b77
+	   |-- fabric-renderer-indigo 1.3.1+b3afc78b77
+	   |-- fabric-renderer-registries-v1 3.2.44+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.33+b3afc78b77
+	   |-- fabric-rendering-fluids-v1 3.0.26+b3afc78b77
+	   |-- fabric-rendering-v0 1.1.47+df3654b377
+	   |-- fabric-rendering-v1 3.0.6+b3afc78b77
+	   |-- fabric-resource-conditions-api-v1 2.3.5+ea08f9d877
+	   |-- fabric-screen-api-v1 2.0.6+b3afc78b77
+	   |-- fabric-screen-handler-api-v1 1.3.27+b3afc78b77
+	   |-- fabric-sound-api-v1 1.0.12+b3afc78b77
+	   |-- fabric-transfer-api-v1 3.2.2+b3afc78b77
+	   \-- fabric-transitive-access-wideners-v1 4.2.0+b3afc78b77
+	- fabric-language-kotlin 1.9.5+kotlin.1.8.22
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.22
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.22
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.22
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.22
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.1
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.1
+	- fabricloader 0.14.21
+	- ferritecore 6.0.0
+	- firstperson 2.2.3
+	- inventoryhud 3.4.15
+	- inventoryprofilesnext 1.10.6
+	- iris 1.6.4
+	   |-- io_github_douira_glsl-transformer 2.0.0-pre13
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.11.1
+	- java 17
+	- libipn 3.0.2
+	- libjf 3.10.2
+	   |-- libjf-base 3.10.2
+	   |    \-- fabric-lifecycle-events-v1 2.2.21+b3afc78b77
+	   |-- libjf-config-commands-v1 3.10.2
+	   |    \-- fabric-command-api-v2 2.2.12+b3afc78b77
+	   |-- libjf-config-core-v1 3.10.2
+	   |-- libjf-config-reflect-v1 3.10.2
+	   |-- libjf-config-ui-tiny-v1 3.10.2
+	   |    \-- fabric-resource-loader-v0 0.11.9+132c48c177
+	   |-- libjf-data-manipulation-v0 3.10.2
+	   |-- libjf-data-v0 3.10.2
+	   |    \-- fabric-resource-loader-v0 0.11.9+132c48c177
+	   |-- libjf-translate-v1 3.10.2
+	   |-- libjf-unsafe-v0 3.10.2
+	   \-- libjf-web-v0 3.10.2
+	        \-- fabric-command-api-v2 2.2.12+b3afc78b77
+	- litematica 0.15.0
+	- lithium 0.11.2
+	- malilib 0.16.0
+	- memoryleakfix 1.1.1
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.8
+	- minecraft 1.20.1
+	- modmenu 7.1.0
+	   |-- fabric-api-base 0.4.29+b04edc7a77
+	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da77
+	   \-- fabric-screen-api-v1 2.0.6+b3afc78b77
+	- mousetweaks 2.25
+	- nochatreports 1.20.1-v2.2.2
+	- notenoughanimations 1.6.4
+	- plasmovoice 2.0.6
+	   |-- aopalliance_aopalliance 1.0
+	   |-- com_google_inject_guice 5.0.1
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   \-- javax_inject_javax_inject 1
+	- reeses-sodium-options 1.5.1+mc1.20-build.74
+	- shulkerboxtooltip 4.0.3+1.20
+	- sodium 0.4.10+build.27
+	- sodium-extra 0.4.20+mc1.20-build.103
+	   |-- caffeineconfig 1.1.0+1.17
+	   \-- crowdin-translate 1.4+1.19.3
+	- starlight 1.1.2+fabric.dbc156f
+	- versionchanger 1.4.2
+	- viafabric 0.4.10+40-main
+	   |-- org_yaml_snakeyaml 2.0
+	   |-- viafabric-mc120 0.4.10+40-main
+	   \-- viaversion 4.7.1-SNAPSHOT
+	- wildfire_gender 1.20-3.0.1
+	- worldedit 7.2.15+6463-5ca4dff
+	- xaerominimap 23.5.0
+	- xaeroworldmap 1.30.6
+	- yet_another_config_lib_v3 3.0.2+1.20
+	   |-- com_twelvemonkeys_common_common-image 3.9.4
+	   |-- com_twelvemonkeys_common_common-io 3.9.4
+	   |-- com_twelvemonkeys_common_common-lang 3.9.4
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.9.4
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.9.4
+	   \-- com_twelvemonkeys_imageio_imageio-webp 3.9.4
+[13:27:58] [main/INFO]: Starting unsafe init
+[13:27:58] [main/INFO]: Registering config for libjf-translate-v1
+[13:27:58] [main/INFO]: Registering config for libjf-web-v0
+[13:27:58] [main/INFO]: Registering config for versionchanger
+[13:27:58] [main/INFO]: Finished LibJF config entrypoint
+[13:27:58] [main/INFO]: LibJF unsafe init completed
+[13:27:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/nicol/AppData/Roaming/PrismLauncher/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[13:27:58] [main/INFO]: Compatibility level set to JAVA_17
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.client.uncapvd.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[13:27:59] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[13:27:59] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[13:27:59] [main/INFO]: Discovered LibJF asm plugin in libjf-data-manipulation-v0
+[13:27:59] [main/WARN]: Reference map 'libjf-unsafe-v0-refmap.json' for libjf-unsafe-v0.mixins.json could not be read. If this is a development environment you can ignore this message
+[13:28:00] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 3 override(s) found
+[13:28:00] [main/INFO]: Loaded configuration file for Sodium: 33 options available, 3 override(s) found
+[13:28:00] [main/INFO]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[13:28:00] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[13:28:00] [main/INFO]: CameraOverhaul: Using modern mixin 'mirsario.cameraoverhaul.fabric.mixins.modern.CameraMixin'.
+[13:28:00] [main/INFO]: CameraOverhaul: Using modern mixin 'mirsario.cameraoverhaul.fabric.mixins.modern.GameRendererMixin'.
+[13:28:00] [main/INFO]: CameraOverhaul: Skipping legacy mixin 'mirsario.cameraoverhaul.fabric.mixins.legacy.LegacyCameraMixin'.
+[13:28:01] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[13:28:01] [main/WARN]: Force-enabling mixin 'block.hopper.worldedit_compat.WorldChunkMixin' as rule 'mixin.block.hopper.worldedit_compat' (added by mods [lithium-fabric]) enables it
+[13:28:01] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me]) disables it and children
+[13:28:01] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinCuboid' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
+[13:28:01] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinModelPart' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
+[13:28:01] [main/WARN]: Force-disabling mixin 'features.gui.font.MixinGlyphRenderer' as rule 'mixin.features.gui.font' (added by mods [iris]) disables it and children
+[13:28:01] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[13:28:01] [main/INFO]: [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[13:28:01] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[13:28:01] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[13:28:01] [main/WARN]: Error loading class: net/caffeinemc/sodium/config/user/UserConfigCategories (java.lang.ClassNotFoundException: net/caffeinemc/sodium/config/user/UserConfigCategories)
+[13:28:01] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[13:28:04] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[13:28:04] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[13:28:04] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
+[13:28:04] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to mda4110b$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[13:28:04] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to mda4110b$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[13:28:10] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 242 milliseconds
+[13:28:11] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
+[13:28:13] [Render thread/INFO]: Launching a new process to probe the system configuration!
+[13:28:13] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[13:28:13] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce GTX 1650/PCIe/SSE2
+[13:28:13] [Render thread/INFO]: OpenGL Version: 3.3.0 NVIDIA 536.67
+[13:28:13] [Render thread/WARN]: Enabling workaround for NVIDIA graphics drivers on Windows (issue #1486)
+[13:28:13] [Render thread/WARN]: One or more workarounds were enabled to prevent crashes or other issues on your system. You may need to update your graphics drivers.
+[13:28:13] [Render thread/INFO]: Mixing client.MixinMinecraft from mixins/common/nochatreports.mixins.json into net.minecraft.class_310
+[13:28:13] [Render thread/INFO]: Mixing client.MixinMinecraft from mixins/fabric/nochatreports-fabric.mixins.json into net.minecraft.class_310
+[13:28:14] [Render thread/INFO]: Mixing client.MixinTitleScreen from mixins/common/nochatreports.mixins.json into net.minecraft.class_442
+[13:28:14] [Render thread/INFO]: Mixing client.MixinChatScreen from mixins/common/nochatreports.mixins.json into net.minecraft.class_408
+[13:28:14] [Render thread/INFO]: Renaming synthetic method lambda$onInit$4()Lnet/minecraft/class_2561; to mda4110b$nochatreports$lambda$onInit$4$0 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[13:28:14] [Render thread/INFO]: Renaming synthetic method lambda$onInit$3(Lnet/minecraft/class_4185;)V to mda4110b$nochatreports$lambda$onInit$3$1 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[13:28:14] [Render thread/INFO]: Renaming synthetic method lambda$onInit$2()Lnet/minecraft/class_2561; to mda4110b$nochatreports$lambda$onInit$2$2 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[13:28:14] [Render thread/INFO]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/class_4185;)V to mda4110b$nochatreports$lambda$onInit$1$3 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[13:28:14] [Render thread/INFO]: Renaming synthetic method lambda$onBeforeMessage$0(Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lcom/aizistral/nochatreports/common/encryption/Encryptor;)V to mda4110b$nochatreports$lambda$onBeforeMessage$0$4 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[13:28:14] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:28:14] [Render thread/INFO]: Mixing client.MixinYggdrasilUserApiService from mixins/common/nochatreports.mixins.json into com.mojang.authlib.yggdrasil.YggdrasilUserApiService
+[13:28:15] [Render thread/INFO]: Setting user: Fork0n
+[13:28:15] [Render thread/INFO]: Mixing client.MixinToastComponent from mixins/common/nochatreports.mixins.json into net.minecraft.class_374
+[13:28:15] [Cicada thread 0/INFO]: [do_a_barrel_roll] Available on Modrinth!
+[13:28:15] [Cicada thread 0/INFO]: [do_a_barrel_roll] Also Curseforge, but yknow...
+[13:28:17] [Render thread/INFO]: Mixing client.MixinClientPacketListener from mixins/common/nochatreports.mixins.json into net.minecraft.class_634
+[13:28:17] [Render thread/INFO]: Loading FirstPerson Mod
+[13:28:17] [Render thread/INFO]: KONNICHIWA ZA WARUDO!
+[13:28:17] [Render thread/INFO]: Default JVM text encoding is: windows-1252
+[13:28:17] [Render thread/INFO]: Reading config file NoChatReports/NCR-Common.json...
+[13:28:17] [Render thread/INFO]: Reading config file NoChatReports/NCR-Client.json...
+[13:28:17] [Render thread/INFO]: Reading config file NoChatReports/NCR-ServerPreferences.json...
+[13:28:17] [Render thread/INFO]: Reading config file NoChatReports/NCR-Encryption.json...
+[13:28:17] [Render thread/INFO]: Writing config file NoChatReports/NCR-Common.json...
+[13:28:17] [Render thread/INFO]: Writing config file NoChatReports/NCR-Client.json...
+[13:28:17] [Render thread/INFO]: Writing config file NoChatReports/NCR-ServerPreferences.json...
+[13:28:17] [Render thread/INFO]: Writing config file NoChatReports/NCR-Encryption.json...
+[13:28:17] [Render thread/INFO]: Client initialization...
+[13:28:18] [Render thread/INFO]: [ShulkerBoxTooltip] Could not find configuration file, creating default file
+[13:28:18] [ToggleableConfigWatchService/INFO]: Registering config for libjf-config-core-v1
+[13:28:18] [ToggleableConfigWatchService/INFO]: Created config watch service
+[13:28:19] [Via-Mappingloader-0/INFO]: Loading block connection mappings ...
+[13:28:19] [Via-Mappingloader-0/INFO]: Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:28:20] [Render thread/INFO]: ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+[13:28:20] [Render thread/INFO]: Highest supported version by the proxy: 1.20/1.20.1 (763)
+[13:28:20] [ViaFabric-2/INFO]: Finished mapping loading, shutting down loader executor!
+[13:28:20] [ViaFabric-0/WARN]: There is a newer plugin version available: 4.9.2, you're on: 4.7.1-SNAPSHOT
+[13:28:21] [Render thread/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@636353c4]
+[13:28:21] [Render thread/INFO]: WorldEdit for Fabric (version 7.2.15+6463-5ca4dff) is loaded
+[13:28:21] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[13:28:21] [Render thread/INFO]: [BetterF3] Loading...
+[13:28:21] [Render thread/INFO]: [BetterF3] All done!
+[13:28:21] [Render thread/INFO]: CameraOverhaul: CameraSystem is ready.
+[13:28:21] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[13:28:21] [Render thread/INFO]: [STDOUT]: Inventory HUD + has been initialized!
+[13:28:22] [Worker-Main-1/INFO]: Checking mod updates...
+[13:28:22] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Main.initialize()
+[13:28:22] [Render thread/INFO]: [STDOUT]: [Mouse Tweaks] Initialized.
+[13:28:22] [Render thread/INFO]: Loading Xaero's Minimap - Stage 1/2
+[13:28:24] [Render thread/WARN]: Static binding violation: PRIVATE @Overwrite method method_23182 in sodium.mixins.json:features.item.MixinItemRenderer from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[13:28:24] [Render thread/INFO]: Loading Xaero's World Map - Stage 1/2
+[13:28:25] [Render thread/INFO]: Mixing client.MixinOptions from mixins/common/nochatreports.mixins.json into net.minecraft.class_315
+[13:28:25] [Render thread/INFO]: Renaming synthetic method lambda$onlyShowSecureChat$0(Ljava/lang/Boolean;)V to mda4110b$nochatreports$lambda$onlyShowSecureChat$0$0 in mixins/common/nochatreports.mixins.json:client.MixinOptions from mod nochatreports
+[13:28:25] [Render thread/INFO]: Mixing client.MixinChatComponent from mixins/common/nochatreports.mixins.json into net.minecraft.class_338
+[13:28:25] [Render thread/INFO]: Renaming synthetic method lambda$modifyGUIMessage$1()V to mda4110b$nochatreports$lambda$modifyGUIMessage$1$0 in mixins/common/nochatreports.mixins.json:client.MixinChatComponent from mod nochatreports
+[13:28:25] [Render thread/INFO]: Renaming synthetic method lambda$modifyGUIMessage$0(Lnet/minecraft/class_5348;Lnet/minecraft/class_2561;)V to mda4110b$nochatreports$lambda$modifyGUIMessage$0$1 in mixins/common/nochatreports.mixins.json:client.MixinChatComponent from mod nochatreports
+[13:28:25] [Render thread/INFO]: Mixing client.MixinGuiMessageTagIcon from mixins/common/nochatreports.mixins.json into net.minecraft.class_7591$class_7592
+[13:28:25] [Render thread/INFO]: Renaming @Invoker method create(Ljava/lang/String;IIIII)Lnet/minecraft/class_7591$class_7592; to create$nochatreports_$md$a4110b$0 in mixins/common/nochatreports.mixins.json:client.MixinGuiMessageTagIcon from mod nochatreports
+[13:28:25] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] Cached update file detected, using that!
+[13:28:25] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] New update detected, showing update message!
+[13:28:26] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 SNAPSHOT
+[13:28:26] [Render thread/INFO]: Debug functionality is disabled.
+[13:28:26] [Render thread/INFO]: ARB_direct_state_access detected, enabling DSA.
+[13:28:26] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[13:28:26] [Render thread/INFO]: Shaders are disabled
+[13:28:27] [Render thread/INFO]: Hardware information:
+[13:28:27] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 4800H with Radeon Graphics 
+[13:28:27] [Render thread/INFO]: GPU: NVIDIA GeForce GTX 1650/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 536.67)
+[13:28:27] [Render thread/INFO]: OS: Windows 11 (10.0)
+[13:28:28] [Render thread/INFO]: Mixing client.MixinChatListener from mixins/common/nochatreports.mixins.json into net.minecraft.class_7594
+[13:28:28] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (accurateblockplacement, appleskin, betterbeds, betterf3, c2me, caffeineconfig, cameraoverhaul, cardinal-components, cardinal-components-base, cardinal-components-block, cardinal-components-chunk, cardinal-components-entity, cardinal-components-item, cardinal-components-level, cardinal-components-scoreboard, cardinal-components-world, cateyes, cicada, cloth-config, command-block-ide, dark-loading-screen, do_a_barrel_roll, dynamicfps, emotecraft, entityculling, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-tables-v1, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-networking-v0, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, firstperson, inventoryhud, inventoryprofilesnext, iris, libipn, libjf, libjf-config-core-v1, libjf-config-ui-tiny-v1, libjf-translate-v1, libjf-web-v0, litematica, lithium, malilib, modmenu, nochatreports, notenoughanimations, plasmovoice, reeses-sodium-options, shulkerboxtooltip, sodium, sodium-extra, starlight, versionchanger, viafabric, viaversion, wildfire_gender, worldedit, xaerominimap, xaeroworldmap, yet_another_config_lib_v3), file/redstone-tweaks-2-3.zip
+[13:28:28] [Render thread/INFO]: Mixing client.MixinJoinMultiplayerScreen from mixins/common/nochatreports.mixins.json into net.minecraft.class_500
+[13:28:28] [Render thread/INFO]: Renaming synthetic method lambda$onInit$2()Lnet/minecraft/class_2561; to mda4110b$nochatreports$lambda$onInit$2$0 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen from mod nochatreports
+[13:28:28] [Render thread/INFO]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/class_4185;)V to mda4110b$nochatreports$lambda$onInit$1$1 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen from mod nochatreports
+[13:28:28] [Render thread/INFO]: Renaming synthetic method lambda$onInit$0(Lnet/minecraft/class_4185;)V to mda4110b$nochatreports$lambda$onInit$0$2 in mixins/common/nochatreports.mixins.json:client.MixinJoinMultiplayerScreen from mod nochatreports
+[13:28:28] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[13:28:28] [Render thread/INFO]: [STDOUT]: CatEyes by Tee_Six
+[13:28:29] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[13:28:29] [Worker-Main-7/WARN]: Texture minecraft:block/redstone_dust/14 with size 8x8 limits mip level from 4 to 3
+[13:28:29] [Worker-Main-7/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[13:28:29] [Render thread/INFO]: Mixing client.MixinServerData from mixins/common/nochatreports.mixins.json into net.minecraft.class_642
+[13:28:29] [Render thread/INFO]: Game entered main loop!
+[13:28:29] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[13:28:29] [Render thread/INFO]: New world map region cache hash code: 1293157282
+[13:28:29] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[13:28:29] [Render thread/INFO]: No Optifine!
+[13:28:29] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[13:28:29] [Render thread/INFO]: Xaero's World Map: Iris found!
+[13:28:30] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[13:28:32] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[13:28:32] [Render thread/INFO]: No Optifine!
+[13:28:32] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[13:28:32] [Render thread/INFO]: Xaero's Minimap: Iris found!
+[13:28:32] [Render thread/INFO]: Loading PlayerAnimator support!
+[13:28:32] [Render thread/INFO]: [STDOUT]: InvGUI Initialized
+[13:28:32] [Render thread/INFO]: [STDOUT]: CatEyes by Tee_Six
+[13:28:32] [Render thread/INFO]: [STDOUT]: CatEyes by Tee_Six
+[13:28:32] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:28:32] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:28:32] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Realtek(R) Audio)
+[13:28:32] [Render thread/INFO]: Sound engine started
+[13:28:33] [Render thread/INFO]: Created: 1024x1024x3 minecraft:textures/atlas/blocks.png-atlas
+[13:28:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:28:33] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:28:33] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:28:33] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:28:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:28:33] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:28:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:28:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:28:33] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:28:34] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:28:34] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:28:34] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:28:34] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[13:28:34] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[13:28:34] [Render thread/INFO]: [STDOUT]: CatEyes by Tee_Six
+[13:28:37] [Render thread/INFO]: Mixing client.MixinOnlineServerEntry from mixins/common/nochatreports.mixins.json into net.minecraft.class_4267$class_4270
+[13:28:37] [Render thread/INFO]: Renaming synthetic method lambda$onRender$0()Ljava/util/ArrayList; to mda4110b$nochatreports$lambda$onRender$0$0 in mixins/common/nochatreports.mixins.json:client.MixinOnlineServerEntry from mod nochatreports
+[13:28:37] [Render thread/INFO]: Mixing client.MixinRowHelper from mixins/common/nochatreports.mixins.json into net.minecraft.class_7845$class_7939
+[13:28:38] [Render thread/INFO]: Mixing client.MixinConnectScreen from mixins/common/nochatreports.mixins.json into net.minecraft.class_412
+[13:28:38] [Render thread/INFO]: Connecting to mc.easy-land.ru, 25565
+[13:28:40] [Netty Client IO #0/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
+[13:28:40] [Netty Client IO #0/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
+[13:28:40] [Netty Client IO #0/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[13:28:40] [Netty Client IO #1/INFO]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.class_2926
+[13:28:40] [Netty Client IO #1/INFO]: Auto-detected 1.20/1.20.1 (763) for mc.easy-land.ru/151.80.4.240:25565
+[13:28:40] [Render thread/INFO]: Mixing client.MixinChatOptionsScreen from mixins/common/nochatreports.mixins.json into net.minecraft.class_404
+[13:28:40] [Render thread/INFO]: Renaming synthetic method lambda$init$0(Lnet/minecraft/class_339;)V to mda4110b$nochatreports$lambda$init$0$0 in mixins/common/nochatreports.mixins.json:client.MixinChatOptionsScreen from mod nochatreports
+[13:28:46] [Render thread/INFO]: Connecting to mc.easy-land.ru, 25565
+[13:28:49] [Render thread/INFO]: [STDOUT]: CatEyes by Tee_Six
+[13:28:50] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[13:28:50] [Render thread/INFO]: Stopping!
+[13:28:50] [Render thread/INFO]: Shutting down

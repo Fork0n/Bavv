@@ -1,0 +1,14 @@
+name = "Nameplate"
+filename = "nameplate-1.1.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9J82qMn9/versions/kITUNTLo/nameplate-1.1.4.jar"
+hash-format = "sha512"
+hash = "ba55105bfef30115ff7fd3c4d2e5eed39397aebc6bad4faf5b7279a31fe59f408617f4bd965f2daf496eeb54b063d9e597d0cf44f7d9c80e66ff086515933364"
+
+[update]
+[update.modrinth]
+mod-id = "9J82qMn9"
+version = "kITUNTLo"

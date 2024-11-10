@@ -1,0 +1,11 @@
+{
+  "simple_mode": false,
+  "miningRange": 1.0,
+  "speed": 0.0,
+  "save_tool": true,
+  "switchTool": true,
+  "BreakNonToolBlocks": false,
+  "keepFood": 0.0,
+  "saveMining": false,
+  "epicFood": false
+}
